@@ -12,6 +12,10 @@ body {
 	height: 100vh;
 }
 
+.container1{
+	color:white;
+}
+
 .container {
 	display: flex;
 	align-items: center;
