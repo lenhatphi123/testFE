@@ -12,8 +12,10 @@ body {
 	height: 100vh;
 }
 
-.container1{
-	color:white;
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
 }
 
 .container {
